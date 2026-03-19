@@ -1,4 +1,3 @@
-# Communicate using Markdown
 # My First Markdown Header
 
 This is my first markdown task.
